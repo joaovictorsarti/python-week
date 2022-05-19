@@ -19,7 +19,7 @@ flake8 = "^4.0.1"
 ipython = "^8.2.0"
 
 [tool.poetry.scripts]
-beerlog = "beerlog.__main__:main"
+whataday = "whataday.__main__:main"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
