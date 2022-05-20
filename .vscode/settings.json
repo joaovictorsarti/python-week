@@ -1,7 +1,7 @@
 {
   "extensions.showBuiltin": true,
   "redhat.telemetry.enabled": false,
-  "workbench.colorTheme": "Visual Studio Dark",
+  "workbench.colorTheme": "Gruvbox Dark Medium",
   "editor.fontSize": 18,
   "git.autofetch": true,
   "python.insidersChannel": "off",
